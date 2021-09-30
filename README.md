@@ -1,2 +1,2 @@
 # projeto-html
-Projeto de um site desenvolvido somente em HTML puro.
+Projeto de um site de viagens desenvolvido somente em HTML puro.
